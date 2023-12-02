@@ -1,0 +1,141 @@
+.header_img {
+    width: 30px;
+    margin: 3px;
+}
+
+header {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header_title {
+    color: white;
+}
+
+.comp_row {
+    background-color: rgb(235, 233, 233);
+    padding: 5px;
+    padding-left: 20px;
+    font-size: 18px;
+    color: rgb(16, 163, 216);
+}
+
+.main_table {
+    padding: 25px;
+}
+
+.comp_name {
+    font-size: 25px;
+    color: rgb(120, 120, 120);
+}
+
+.filt_row {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: rgb(235, 233, 233);
+    border: 1px solid rgb(220, 220, 220);
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.add_and_search_row {
+    margin-top: 15px;
+}
+
+.search_inp {
+    width: 250px;
+    background-color: white;
+    border: 1px solid rgb(209, 209, 209);
+    border-radius: 5px;
+}
+
+.search_col {
+    text-align: right;
+}
+
+.str_btn {
+    background-color: white;
+    border: 1px solid rgb(209, 209, 209);
+    border-radius: 5px;
+}
+
+.search_btn {
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 20px;
+}
+  
+td {
+    border: 2px solid rgb(235, 233, 233);
+    padding: 5px;
+}
+
+.aud_send {
+    background-color: yellow;
+}
+
+.in_work {
+    background-color: red;
+    color: white;
+}
+
+.show {
+    font-size: 12px;
+    margin-top: 7px;
+    font-weight: bold;
+}
+
+.nav_buttons {
+    text-align: right;
+}
+
+.tech_help {
+    text-align: right;
+    margin-right: 40px;
+    margin-top: 30px;
+}
+
+.tech_btn {
+    background-color: rgba(25, 111, 224, 0.894);
+    color: white;
+    border: 1px solid rgba(25, 111, 224, 0.894);
+    border-radius: 5px;
+    padding: 6px;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: rgba(25, 111, 224, 0.894);
+}
+
+.with_help {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.add_btn {
+    background-color: rgb(16, 163, 216);
+    color: white;
+    border: 1px solid rgb(16, 163, 216);
+    border-radius: 5px;
+    margin: 1px;
+    text-align: center;
+}
+
+.simple_btn {
+    background-color: white;
+    border: 1px solid rgb(209, 209, 209);
+    border-radius: 5px;
+    margin: 1px;
+    text-align: center;
+}
